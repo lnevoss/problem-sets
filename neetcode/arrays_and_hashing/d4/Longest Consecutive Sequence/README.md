@@ -1,0 +1,3 @@
+Longest Consecutive Sequence
+
+https://neetcode.io/problems/longest-consecutive-sequence/question?list=neetcode150
